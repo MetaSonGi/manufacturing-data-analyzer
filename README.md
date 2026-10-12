@@ -1,4 +1,11 @@
-# 🏭 manufacturing-data-analyzer
+# 📊 제조 데이터 분석기 | Manufacturing Data Analyzer
+
+> 센서 CSV 이상 탐지 + HTML 리포트 자동 생성 CLI  
+> Sensor CSV anomaly detection CLI with auto HTML reports
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+
+---
 
 제조 센서 CSV 데이터를 분석하고, 이상(anomaly) 탐지 결과와 차트가 포함된
 **HTML 리포트**를 자동 생성하는 Python CLI 도구입니다.
